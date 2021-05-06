@@ -1,5 +1,5 @@
 Flask==1.0.2
-Flask-Cors==3.0.6
+Flask-Cors==3.0.9
 html5lib==1.0.1
 hyperlink==18.0.0
 Keras==2.3.1
